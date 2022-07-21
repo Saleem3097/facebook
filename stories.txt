@@ -1,1 +1,1 @@
-stories feature can be used for updating daily status and ur activity
+hey i got implemented in branch1
